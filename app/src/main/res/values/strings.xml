@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">WeatherTask</string>
+    <string name="wind">Ветер:</string>
+    <string name="cloud">Облачность:</string>
+    <string name="pressure">Давление:</string>
+    <string name="humidity">Влажность:</string>
+    <string name="sunrise">Рассвет:</string>
+    <string name="sunset">Закат:</string>
+    <string name="temp">Температура:</string>
+    <string name="loadDlgMsg">Обновление данных…</string>
+    <string name="refreshMenuTitle">Обновить</string>
+    <string name="noData">Данные отсутствуют</string>
+    <string name="celcius">" °C"</string>
+    <string name="loadTime">"Данные получены: "</string>
+    <string name="denyPermisson">Отсутствует разрешение для определения местоположения</string>
+    <string name="chsDlgTitle">Выбор города</string>
+    <string name="locationOnDlgTitle">Определить местоположение</string>
+    <string name="locationOnMsg">Настройки GPS выключены. Необходимо включить их</string>
+    <string name="setBtn">Настройки</string>
+    <string name="cancelBtn">Отменить</string>
+    <string name="okBtn">OK</string>
+    <string name="locPermDlgMsg">Для работы приложению необходимо Ваше разрешения для определения местоположения</string>
+    <string name="locPermDlgTitle">Необходимо разрешение для определения местоположения</string>
+    <string name="errorConnect">No connection</string>
+    <string-array name="cities">
+        <item>Тольятти</item>
+        <item>Самара</item>
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Сочи</item>
+    </string-array>
+</resources>
