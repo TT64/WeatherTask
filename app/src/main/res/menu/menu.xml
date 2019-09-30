@@ -3,9 +3,9 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
-        android:title="@string/refreshMenuTitle"
         android:id="@+id/refreshItem"
+        android:icon="@drawable/refresh_icon"
         android:onClick="refreshData"
-        app:showAsAction="always"
-        android:icon="@drawable/ic_launcher_background" />
+        android:title="@string/refreshMenuTitle"
+        app:showAsAction="always" />
 </menu>
