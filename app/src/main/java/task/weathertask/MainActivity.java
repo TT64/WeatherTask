@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity implements MainActivityContr
     @Inject
     public WeatherDao weatherDao;
 
-    String TAG = getClass().getSimpleName();
+    public String TAG = getClass().getSimpleName();
     public static final int LOCATION_PERMISSION_CODE = 999;
 
     private TextView tempTv, pressTv, humidTv, windTv, sunsetTv, sunriseTv, cloudTv, timeTv, cityTv;
